@@ -1,0 +1,42 @@
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\SortingVisualizer.exe.config
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\SortingVisualizer.exe
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\SortingVisualizer.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SortingVisualizer.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SortForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Modify.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SortingVisualizer.Properties.Resources.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SortingVisualizer.csproj.GenerateResource.Cache
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SortingVisualizer.exe
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\SortingVisualizer.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.exe.config
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.exe
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.exe
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\bin\Debug\SortingVisualizer.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\obj\Debug\WindowsFormsApplication2.SortForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\obj\Debug\WindowsFormsApplication2.Modify.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.Properties.Resources.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\SortingVisualizer\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.GenerateResource.Cache
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\bin\Debug\SortingVisualizer.exe.config
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\bin\Debug\SortingVisualizer.exe
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\bin\Debug\SortingVisualizer.pdb
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.csprojAssemblyReference.cache
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\obj\Debug\WindowsFormsApplication2.SortForm.resources
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\obj\Debug\WindowsFormsApplication2.Modify.resources
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.Properties.Resources.resources
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.GenerateResource.cache
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.exe
+C:\Users\dokim\OneDrive\Máy tính\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.pdb
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\bin\Debug\SortingVisualizer.exe.config
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\bin\Debug\SortingVisualizer.exe
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\bin\Debug\SortingVisualizer.pdb
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.csprojAssemblyReference.cache
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\obj\Debug\WindowsFormsApplication2.SortForm.resources
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\obj\Debug\WindowsFormsApplication2.Modify.resources
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.Properties.Resources.resources
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.GenerateResource.cache
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.exe
+C:\Users\dokim\OneDrive\Máy tính\17110088-Midterm\SortingVisualizer-master\SortingVisualizer\obj\Debug\SortingVisualizer.pdb
